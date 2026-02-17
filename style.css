@@ -13,11 +13,7 @@
     border-radius:1px;
 }
 
-#btnGL{
-    /* background-color: rgb(49 60 73 / 80%); */
-    
-    /* margin: 10px 0 0;
-    padding: 5px; */
+#btnGL{   
     background-color: #435971;
 }
 
@@ -26,12 +22,11 @@
     /* filter: brightness(120%);  */    
     /* filter: opacity(60%); Hace al elemento 50% transparente */
     /* transition: filter 0.2s; Aplica una transición de 5 segundos al cambio de filtro */
-
 }
 
 #hltv-split-container{
     display: flex;
     width: 100%;
     padding: 5px;
-    gap: 10px;
+    gap: 10px;   
 }

@@ -41,8 +41,7 @@ function addButton() {
     document.getElementById("btnAS").addEventListener('click',function(){
         initSplit("span.region.region-asia");
     })
-    document.getElementById("btnGL").addEventListener('click',function(){
-        // window.location.reload();
+    document.getElementById("btnGL").addEventListener('click',function(){        
         initSplit("div.ranking-header");
     })
 }
